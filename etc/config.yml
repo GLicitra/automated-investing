@@ -1,4 +1,0 @@
-## Runtime configuration for the autoinv application.
-##
-core:
-  logging: WARN
